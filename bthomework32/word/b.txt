@@ -1,0 +1,14 @@
+world
+bed
+tree
+window
+hello
+computer
+my
+sofa
+tree
+hello
+java
+computer
+chair
+hair

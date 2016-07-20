@@ -1,0 +1,16 @@
+hello
+world
+name
+sofa
+hello
+my
+world
+computer
+table
+hello
+web
+java
+test
+flash
+action
+script
